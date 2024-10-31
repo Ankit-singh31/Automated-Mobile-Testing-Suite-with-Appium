@@ -1,0 +1,1 @@
+A project for automating UI tests on Android applications using Appium. This suite provides end-to-end tests to ensure the functionality, reliability, and usability of Android apps across devices and operating system version.
